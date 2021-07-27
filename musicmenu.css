@@ -45,7 +45,7 @@ h2 {
   letter-spacing: .5em;
   text-align: center;
 }
-dt {
+dt, dd {
   font-weight: bold;
 }
 strong {
